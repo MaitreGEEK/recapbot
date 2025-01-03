@@ -10,4 +10,4 @@ then start with node .
 
 Tada it works
 
-Change the token in specificConfig.json
+Change the token and clientId in config.json with yours
