@@ -11,3 +11,11 @@ then start with node .
 Tada it works
 
 Change the token and clientId in config.json with yours
+
+## Contribute 
+
+Feel free to open a Pull Request or Fork the project. 
+
+## Using it
+
+If you want to commercialize or use it in a commercial use you need to get my Authorization first. If you use it in any other project you'll need to credit me.
